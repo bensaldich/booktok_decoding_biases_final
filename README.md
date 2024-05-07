@@ -23,7 +23,7 @@
 <a name="intro"></a>
 ## Introduction
 <p>
-
+write here
 </p>
 
 
@@ -87,14 +87,14 @@ Josh Get to work here!
 <a name="discussions"></a>
 ## Discussion
 <p>
-
+write here 
 </p>
 
 
 <a name="conclusions"></a>
 ## Conclusion
 <p>
-
+Write here
 </p>
 
 
