@@ -140,10 +140,18 @@ We are intersted in understanding if the results we got are driven by huge outli
 Lets do the same for likes and videos!
 <img width="468" alt="21" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/1bf289b4-6080-426c-a428-4b0d167d685e">
 <img width="468" alt="22" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/50c70c4c-8647-4196-832c-51591179e907">
-<img width="
-![23](https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/5fddf666-841f-4ab4-8b99-4a222a5f0c74)
 
+Now we want to investigate if there is any correlation between the race of an influencer and the race of the authors they recommend. To do so, we will need to melt and merge the new_booktok and booktok_authors datasets for columns of interest, namely the ones indicating both influencer and author race.
 
+Note to elena: Having a hard time putting the last two box plots in
+
+We can now visualise if there is any trend relating the influencers' race to the authors' race. We are going to work on chi-square statistics and the p-value. We are going to assume that the variables (influencer race and author race) are independent and we are going to test for any discrepancies between their actual frequency distribution and their expected one.
+
+<img width="614" alt="25" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/20857022-16e4-446a-b923-26ebe0965f53">
+
+Results of the chi-square statistic show that there is some level of discrepancy between the variables' frequencies (assuming they are independent). 
+Nevertheless, the fact that the p-value is greater than normal (0.225 > 0.05) cannot make us reject the null hypothesis of no relationship between the variables. 
+Hence, no substantial association between the influencer's race and the authors' they recommend race can be made. 
 
 </p>**
 
