@@ -145,6 +145,10 @@ Now we want to investigate if there is any correlation between the race of an in
 
 Note to elena: Having a hard time putting the last two box plots in
 
+![23](https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/ce3a7aa0-bf31-468a-b4e6-a17b3727ef37)
+
+![24](https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/47063252-dbc5-49a4-a0ca-9d8b16ce08d2)
+
 We can now visualise if there is any trend relating the influencers' race to the authors' race. We are going to work on chi-square statistics and the p-value. We are going to assume that the variables (influencer race and author race) are independent and we are going to test for any discrepancies between their actual frequency distribution and their expected one.
 
 <img width="614" alt="25" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/20857022-16e4-446a-b923-26ebe0965f53">
