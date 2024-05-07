@@ -143,8 +143,6 @@ Lets do the same for likes and videos!
 
 Now we want to investigate if there is any correlation between the race of an influencer and the race of the authors they recommend. To do so, we will need to melt and merge the new_booktok and booktok_authors datasets for columns of interest, namely the ones indicating both influencer and author race.
 
-Note to elena: Having a hard time putting the last two box plots in
-
 ![23](https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/ce3a7aa0-bf31-468a-b4e6-a17b3727ef37)
 
 ![24](https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/47063252-dbc5-49a4-a0ca-9d8b16ce08d2)
