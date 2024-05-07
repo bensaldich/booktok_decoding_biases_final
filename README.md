@@ -234,7 +234,7 @@ Results of the chi-square statistic show that there is some level of discrepancy
 Nevertheless, the fact that the p-value is greater than normal (0.225 > 0.05) cannot make us reject the null hypothesis of no relationship between the variables. 
 Hence, no substantial association between the influencer's race and the authors' they recommend race can be made. 
 
-</p>**
+</p>
 
 
 
