@@ -1,4 +1,4 @@
-# Decoding Biases in Artificial Intelligence: Exploring Racial Bias on TikTok through a subcommunity: #BookToK
+# Decoding Biases in Artificial Intelligence: Exploring Racial Bias on TikTok through the #BookToK subcommunity
 #### Joshua Bernstein, Maria Chiara Liviano D’Arcangelo, Frida Hellen, Benjamin Saldich, Elena Tomesani  – Winter 2024
 
 
