@@ -57,13 +57,13 @@ Data collection was performed using the traffic monitoring Firefox extension, Ze
 
 Using 4CAT, Zeeschuimer’s companion data processing tool, data was converted from a .NDJSON format to a .CSV format. These data contained information on the post time, author, text body, as well as information on the account’s popularity and post-level engagement and viewership data. Surprisingly, these posts ranged from August 2021 to the time of data collection in April 2024, indicating that post-recency is but one of many factors present in TikTok’s search results algorithm. After collecting the data, a manual coding process was enacted, with coding performed across 7 categories (category-specific options provided in parentheticals):
 
-Whether the post was a review (non-reviews included viral book-themed trends that also employed #BookTook. Given their lack of relevancy, these data were excluded from further analysis)
-The sentiment of the review (Positive, Negative, or mixed)
-The perceived gender of the influencer (Male, Female, unable to tell)
-The perceived race of the influencer (White, Black, unable to tell) 
-The name of the author of the first book reviewed in the post
-The name of the author of the second book reviewed in the post
-The name of the author of the third book reviewed in the post
+- Whether the post was a review (non-reviews included viral book-themed trends that also employed #BookTook. Given their lack of relevancy, these data were excluded from further analysis)
+- The sentiment of the review (Positive, Negative, or mixed)
+- The perceived gender of the influencer (Male, Female, unable to tell)
+- The perceived race of the influencer (White, Black, unable to tell)
+- The name of the author of the first book reviewed in the post
+- The name of the author of the second book reviewed in the post
+- The name of the author of the third book reviewed in the post
 
 Additionally, each author identified in the views was manually researched and labeled according to perceived race (White, Black, non-Black POC, mixed-race, or 'can't tell') and gender (female or male). Importantly, race and gender-based identifications for both the influencers and book authors were done using visual identification strategies, introducing the notable limitation that our results may be biased by incorrect labeling. This is particularly true when considering white-passing POC, mixed-race individuals, and/or individuals whose physical appearance do not conform to typical gender or racial divisions. This risk was partially mitigated by the inclusion of the 'can't tell' category, which was utilized under more ambiguous situations, but nonetheless presents notable limitations to our analysis. 
 
