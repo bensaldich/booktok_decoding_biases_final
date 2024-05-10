@@ -63,8 +63,6 @@ In addition to the meaningful discussion on black creators, the discourse on vie
 <p>
 Though #BookTok is used across many languages and countries, our group’s interest in potential racial biases present in TikTok’s search results necessitated an in depth focus on one geographic location. Given the existing literature on racial disparities in the United States, and the emerging reports on BookTok’s racial bias in the American context, we aimed to collect primarily U.S. TikTok posts. To do so, a VPN was employed throughout the entire process of account creation and data collection, with an arbitrary location within the United States set to Phoenix, Arizona. Using the active VPN, a new TikTok account was created with a new email to mitigate the potential for data traceability. A selfie is required to authenticate new TikTok accounts. This selfie was taken by a member of our team (a white man). Aside from a few preliminary searches on the account, no other actions were performed on the account until our data collection commenced. Here are some screenshots of examples:
 
-![books3](https://github.com/bensaldich/booktok_decoding_biases_final/assets/71343656/fcc37ffa-5feb-4d5d-baa1-ef7f9fd8c1e7)
-![books2](https://github.com/bensaldich/booktok_decoding_biases_final/assets/71343656/4897fa9b-1696-4a14-ab66-3bc14cd75288)
 ![books1](https://github.com/bensaldich/booktok_decoding_biases_final/assets/71343656/83c0dc34-df56-4e73-a537-1c7307b5e4d4)
 ![boks](https://github.com/bensaldich/booktok_decoding_biases_final/assets/71343656/10ae525f-ffc2-42bc-a052-e7110da9079a)
 
