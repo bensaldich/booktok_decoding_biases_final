@@ -31,8 +31,8 @@ Furthermore, its sophisticated algorithm, like many others, has consistently rai
 
 BookTok is a popular hashtag under which users exchange their favourite books, provide advice, and make recommendations on what to read. Its popularity surged during the pandemic, and in November 2023, the BBC reported that “#BookTok has over 200 billion views on TikTok, the equivalent of everyone in the world viewing it 25 times.” (Ariyanayagam, 2023). Its significance is further underscored by some of its most prominent authors ascending to fame, eventually landing on the New York Times (NYT) Bestseller list, a trend corroborated by our own research. Moreover, major book retailers in the US, such as Barnes & Noble, are now explicitly dedicating sections in their stores to “BookTok famous” books (Stewart, 2021).
 
-Our research was prompted by an article in "The CUT" magazine lamenting the lack of diversity among the authors who achieved fame through BookTok (McCall, 2022). The article argued that all the authors who gained prominence on BookTok were white, attributing this to inherent racial biases in TikTok's algorithm (McCall, 2022). Our study seeks to validate the existence of a disparity in the representation of white versus black authors in the BookTok section of TikTok. Therefore, the research question behind our study asks: _Does the TikTok algorithm display a preference for white authors and white influencers in the #BookTok subcommunity?
-_
+Our research was prompted by an article in "The CUT" magazine lamenting the lack of diversity among the authors who achieved fame through BookTok (McCall, 2022). The article argued that all the authors who gained prominence on BookTok were white, attributing this to inherent racial biases in TikTok's algorithm (McCall, 2022). Our study seeks to validate the existence of a disparity in the representation of white versus black authors in the BookTok section of TikTok. Therefore, the research question behind our study asks: _Does the TikTok algorithm display a preference for white authors and white influencers in the #BookTok subcommunity?_
+
 The paper commences with a literature review, outlining the current understanding of BookTok's significance and examining assertions regarding racial biases in TikTok's algorithm at large. Subsequently, we elucidate our analytical methodology, delineating the data collection process and the tools and techniques employed for analysis. Our findings are then presented, beginning with an assessment of the racial and gender composition of authors and influencers within our sample, followed by a comparison with the demographics of the subset of authors that also appeared in the NYT bestseller list. Finally, we offer a discussion of our findings and draw conclusions based on our research.
 
 </p>
@@ -315,6 +315,27 @@ In summary, our analysis serves as an intriguing case study despite inevitable l
 <a name="bibliography"></a>
 ## References
 <p>
-write here
+Allen, A. L. (2022). Dismantling the “Black Opticon”: Privacy, Race Equity, and Online Data-Protection Reform. SSRN Electronic Journal, 22(16). https://doi.org/10.2139/ssrn.4022653
+Alter, A. (2022, October 10). How Colleen Hoover Rose to Rule the Best-Seller List. The New York Times. https://www.nytimes.com/2022/10/09/books/colleen-hoover.html
+Amarikwa, M. (2023). Social Media Platforms’ Reckoning: The Harmful Impact of TikTok’s Algorithm on People of Color. SSRN Electronic Journal, 29. https://doi.org/10.2139/ssrn.4349202
+Ariyanayagam, A. (2023, December 3). TikTok’s #BookTok Trend “Literally Changed My life.” Www.bbc.com. https://www.bbc.com/news/uk-england-67555175
+Barnett, D. (2023, August 6). “I can’t stress how much BookTok sells”: teen literary influencers swaying publishers. The Guardian. https://www.theguardian.com/books/2023/aug/06/i-cant-stress-how-much-booktok-sells-teen-literary-influencers-swaying-publishers
+Bhandari, A., & Bimo, S. (2022). Why’s Everyone on TikTok Now? The Algorithmized Self and The Future of Self-Making on Social Media. Social Media + Society, 8(1), 1–11. https://doi.org/10.1177/20563051221086241
+ByteDance. (n.d.). ByteDance. Retrieved May 9, 2024, from https://www.bytedance.com/en/
+Chojnacki, R. (2024, February 2). Adult Fiction Outperforms the U.S. Book Market in 2023, Circana Reports. Circana; Circana. https://www.circana.com/intelligence/press-releases/2024/adult-fiction-outperforms-the-u-s-book-market-in-2023-circana-reports/
+Davis, A. (2024). TikTok User Statistics. Search Logistics. Retrieved May 9, 2024, from https://www.searchlogistics.com/learn/statistics/tiktok-user-statistics/#:~:text=TikTok%20has%20over%201%20billion%20monthly%20active%20users.&text=TikTok%20is%20the%204th%20largest,quickly%20catching%20up%20to%20Instagram
+Harris, C., Johnson, A. M., Stephen, Yang, D., & Bruckman, A. (2023). “Honestly, I Think TikTok has a Vendetta Against Black Creators”: Understanding Black Content Creator Experiences on TikTok. Proceedings of the ACM on Human-Computer Interaction, 7(CSCW2), 1–31. https://doi.org/10.1145/3610169
+Harris, E. A. (2022, July 1). How TikTok Became a Best-Seller Machine. The New York Times. https://www.nytimes.com/2022/07/01/books/tiktok-books-booktok.html
+Hern, A. (2022, October 25). How TikTok’s algorithm made it a success: “It pushes the boundaries” The Guardian. https://www.theguardian.com/technology/2022/oct/23/tiktok-rise-algorithm-popularity. 
+Isaac, M. (2024, May 7). TikTok Appeals Imminent U.S. Ban. The New York Times. Retrieved May 9, 2024, from https://www.nytimes.com/2024/05/07/business/tiktok-ban-appeal.html?te=1&nl=morning-briefing%3A-europe-edition&emc=edit_mbe_20240508
+Kung, J. (2022, February 14). What internet outrage reveals about race and TikTok’s algorithm. NPR. https://www.npr.org/sections/codeswitch/2022/02/14/1080577195/tiktok-algorithm
+McCall, T. (2022, November 18). BookTok’s Racial Bias. The Cut. https://www.thecut.com/2022/11/booktok-racial-bias-tiktok-algorithm.html
+Press Information Bureau Delhi. (2020, June 29). Government Bans 59 mobile apps which are prejudicial to sovereignty and integrity of India, defence of India, security of state and public order. PIB Delhi. https://pib.gov.in/PressReleasePage.aspx?PRID=1635206 
+Shead, S. (2020, June 2). TikTok apologizes after being accused of censoring #BlackLivesMatter posts. CNBC. https://www.cnbc.com/2020/06/02/tiktok-blacklivesmatter-censorship.html
+Stewart, S. (2021, September 3). How TikTok Makes Backlist Books into Bestsellers. Publishers Weekly. Retrieved May 9, 2024, from https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/87304-how-tiktok-makes-backlist-books-into-bestsellers.html
+Taylor, S. H., & Choi, M. (2022). An Initial Conceptualization of Algorithm Responsiveness: Comparing Perceptions of Algorithms Across Social Media Platforms. Social Media + Society, 8(4), 205630512211443. https://doi.org/10.1177/20563051221144322
+The New York Times. (n.d.). Best Sellers - Books - June 19, 2022 - The New York Times. The New York Times. Retrieved April 27, 2024, from https://www.nytimes.com/books/best-sellers/2022/06/19/
+TikTok. (2024). Community Guidelines. Retrieved May 9, 2024, from https://www.tiktok.com/community-guidelines/en/community-principles?cgversion=2024H1update
+
 </p>
 
