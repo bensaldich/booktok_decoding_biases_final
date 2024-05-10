@@ -328,19 +328,33 @@ Barnett, D. (2023, August 6). “I can’t stress how much BookTok sells”: tee
 Bhandari, A., & Bimo, S. (2022). Why’s Everyone on TikTok Now? The Algorithmized Self and The Future of Self-Making on Social Media. Social Media + Society, 8(1), 1–11. https://doi.org/10.1177/20563051221086241
 
 ByteDance. (n.d.). ByteDance. Retrieved May 9, 2024, from https://www.bytedance.com/en/
+
 Chojnacki, R. (2024, February 2). Adult Fiction Outperforms the U.S. Book Market in 2023, Circana Reports. Circana; Circana. https://www.circana.com/intelligence/press-releases/2024/adult-fiction-outperforms-the-u-s-book-market-in-2023-circana-reports/
+
 Davis, A. (2024). TikTok User Statistics. Search Logistics. Retrieved May 9, 2024, from https://www.searchlogistics.com/learn/statistics/tiktok-user-statistics/#:~:text=TikTok%20has%20over%201%20billion%20monthly%20active%20users.&text=TikTok%20is%20the%204th%20largest,quickly%20catching%20up%20to%20Instagram
+
 Harris, C., Johnson, A. M., Stephen, Yang, D., & Bruckman, A. (2023). “Honestly, I Think TikTok has a Vendetta Against Black Creators”: Understanding Black Content Creator Experiences on TikTok. Proceedings of the ACM on Human-Computer Interaction, 7(CSCW2), 1–31. https://doi.org/10.1145/3610169
+
 Harris, E. A. (2022, July 1). How TikTok Became a Best-Seller Machine. The New York Times. https://www.nytimes.com/2022/07/01/books/tiktok-books-booktok.html
+
 Hern, A. (2022, October 25). How TikTok’s algorithm made it a success: “It pushes the boundaries” The Guardian. https://www.theguardian.com/technology/2022/oct/23/tiktok-rise-algorithm-popularity. 
+
 Isaac, M. (2024, May 7). TikTok Appeals Imminent U.S. Ban. The New York Times. Retrieved May 9, 2024, from https://www.nytimes.com/2024/05/07/business/tiktok-ban-appeal.html?te=1&nl=morning-briefing%3A-europe-edition&emc=edit_mbe_20240508
+
 Kung, J. (2022, February 14). What internet outrage reveals about race and TikTok’s algorithm. NPR. https://www.npr.org/sections/codeswitch/2022/02/14/1080577195/tiktok-algorithm
+
 McCall, T. (2022, November 18). BookTok’s Racial Bias. The Cut. https://www.thecut.com/2022/11/booktok-racial-bias-tiktok-algorithm.html
+
 Press Information Bureau Delhi. (2020, June 29). Government Bans 59 mobile apps which are prejudicial to sovereignty and integrity of India, defence of India, security of state and public order. PIB Delhi. https://pib.gov.in/PressReleasePage.aspx?PRID=1635206 
+
 Shead, S. (2020, June 2). TikTok apologizes after being accused of censoring #BlackLivesMatter posts. CNBC. https://www.cnbc.com/2020/06/02/tiktok-blacklivesmatter-censorship.html
+
 Stewart, S. (2021, September 3). How TikTok Makes Backlist Books into Bestsellers. Publishers Weekly. Retrieved May 9, 2024, from https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/87304-how-tiktok-makes-backlist-books-into-bestsellers.html
+
 Taylor, S. H., & Choi, M. (2022). An Initial Conceptualization of Algorithm Responsiveness: Comparing Perceptions of Algorithms Across Social Media Platforms. Social Media + Society, 8(4), 205630512211443. https://doi.org/10.1177/20563051221144322
+
 The New York Times. (n.d.). Best Sellers - Books - June 19, 2022 - The New York Times. The New York Times. Retrieved April 27, 2024, from https://www.nytimes.com/books/best-sellers/2022/06/19/
+
 TikTok. (2024). Community Guidelines. Retrieved May 9, 2024, from https://www.tiktok.com/community-guidelines/en/community-principles?cgversion=2024H1update
 
 </p>
