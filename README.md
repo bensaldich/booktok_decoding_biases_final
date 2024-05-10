@@ -315,12 +315,18 @@ In summary, our analysis serves as an intriguing case study despite inevitable l
 <a name="bibliography"></a>
 ## References
 <p>
-Allen, A. L. (2022). Dismantling the “Black Opticon”: Privacy, Race Equity, and Online Data-Protection Reform. SSRN Electronic Journal, 22(16). https://doi.org/10.2139/ssrn.4022653
-Alter, A. (2022, October 10). How Colleen Hoover Rose to Rule the Best-Seller List. The New York Times. https://www.nytimes.com/2022/10/09/books/colleen-hoover.html
+
+  Allen, A. L. (2022). Dismantling the “Black Opticon”: Privacy, Race Equity, and Online Data-Protection Reform. SSRN Electronic Journal, 22(16). https://doi.org/10.2139/ssrn.4022653
+  Alter, A. (2022, October 10). How Colleen Hoover Rose to Rule the Best-Seller List. The New York Times. https://www.nytimes.com/2022/10/09/books/colleen-hoover.html
+
 Amarikwa, M. (2023). Social Media Platforms’ Reckoning: The Harmful Impact of TikTok’s Algorithm on People of Color. SSRN Electronic Journal, 29. https://doi.org/10.2139/ssrn.4349202
+
 Ariyanayagam, A. (2023, December 3). TikTok’s #BookTok Trend “Literally Changed My life.” Www.bbc.com. https://www.bbc.com/news/uk-england-67555175
+
 Barnett, D. (2023, August 6). “I can’t stress how much BookTok sells”: teen literary influencers swaying publishers. The Guardian. https://www.theguardian.com/books/2023/aug/06/i-cant-stress-how-much-booktok-sells-teen-literary-influencers-swaying-publishers
+
 Bhandari, A., & Bimo, S. (2022). Why’s Everyone on TikTok Now? The Algorithmized Self and The Future of Self-Making on Social Media. Social Media + Society, 8(1), 1–11. https://doi.org/10.1177/20563051221086241
+
 ByteDance. (n.d.). ByteDance. Retrieved May 9, 2024, from https://www.bytedance.com/en/
 Chojnacki, R. (2024, February 2). Adult Fiction Outperforms the U.S. Book Market in 2023, Circana Reports. Circana; Circana. https://www.circana.com/intelligence/press-releases/2024/adult-fiction-outperforms-the-u-s-book-market-in-2023-circana-reports/
 Davis, A. (2024). TikTok User Statistics. Search Logistics. Retrieved May 9, 2024, from https://www.searchlogistics.com/learn/statistics/tiktok-user-statistics/#:~:text=TikTok%20has%20over%201%20billion%20monthly%20active%20users.&text=TikTok%20is%20the%204th%20largest,quickly%20catching%20up%20to%20Instagram
