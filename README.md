@@ -258,7 +258,7 @@ Now, we are interested in seeing the racial distribution of authors on the NYT b
 
 As seen above, the overwhelming majority of the newcomers that appear on booktok is white. This is consistent with the overall racial distribution of authors mentioned on booktok that we have seen before.
 
-We then define a similar function to get a visual representation of the gender distribution. 
+We then plot a similar figure to get a visual representation of the gender distribution. 
 ![image](https://github.com/bensaldich/booktok_decoding_biases_final/assets/150074790/aebb9645-b6f4-45aa-a797-22187c937e2b)
 
 
