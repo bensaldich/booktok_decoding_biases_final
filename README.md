@@ -23,7 +23,18 @@
 <a name="intro"></a>
 ## Introduction
 <p>
-write here
+The widely-known social media platform TikTok was first launched in China in September 2016 under the name of Douyin (抖音). It reached global fame after November 2017 when it was merged with the already popular platform Musical.ly (ByteDance, n.d.). The app has now reached more than 1 billion active users, ranking as the fourth largest social media platform in the world (Davis, 2024). Its appeal stems from its originally unique format that allows users to watch (and post) very short videos accompanied by trending music in the endless For You Feed (FYF). This feed is governed by an extremely advanced algorithm, which is not only able to capture a user's demonstrated preference but also to actively test its own predictions of what a user might like (Hern, 2022).
+  
+Despite its success, TikTok has often made headlines due to contentious allegations linking it to the Chinese Communist Party. Just recently, on April 24, the United States (U.S.) President Joe Biden signed a bill calling for ByteDance, TikTok's parent company, to sell its American subsidiary to a local company, under the threat of a ban. In response, TikTok sued the federal government on May 7, on the grounds of violating freedom of speech rights as granted by the First Amendment, starting a case which is likely to reach the U.S. Supreme Court (Isaac, 2024). Previously, TikTok was banned in India together with 58 other mobile apps, on the grounds of being “prejudicial to the sovereignty of India, defence of India, security of the state, and public order” (Press Information Bureau Delhi, 2020).
+
+Furthermore, its sophisticated algorithm, like many others, has consistently raised concerns about its fairness. On paper, the app states eight guiding Community principles aimed at ensuring fairness and unbiasedness which include enabling free expression, championing inclusion, and being fair and just (TikTok, 2024). However, these ideal values do not seem to always translate to reality. Our study aims to test the self-proclaimed unbiasedness of TikTok, focusing on a specific subcommunity: BookTok.
+
+BookTok is a popular hashtag under which users exchange their favourite books, provide advice, and make recommendations on what to read. Its popularity surged during the pandemic, and in November 2023, the BBC reported that “#BookTok has over 200 billion views on TikTok, the equivalent of everyone in the world viewing it 25 times.” (Ariyanayagam, 2023). Its significance is further underscored by some of its most prominent authors ascending to fame, eventually landing on the New York Times (NYT) Bestseller list, a trend corroborated by our own research. Moreover, major book retailers in the US, such as Barnes & Noble, are now explicitly dedicating sections in their stores to “BookTok famous” books (Stewart, 2021).
+
+Our research was prompted by an article in "The CUT" magazine lamenting the lack of diversity among the authors who achieved fame through BookTok (McCall, 2022). The article argued that all the authors who gained prominence on BookTok were white, attributing this to inherent racial biases in TikTok's algorithm (McCall, 2022). Our study seeks to validate the existence of a disparity in the representation of white versus black authors in the BookTok section of TikTok. Therefore, the research question behind our study asks: _Does the TikTok algorithm display a preference for white authors and white influencers in the #BookTok subcommunity?
+_
+The paper commences with a literature review, outlining the current understanding of BookTok's significance and examining assertions regarding racial biases in TikTok's algorithm at large. Subsequently, we elucidate our analytical methodology, delineating the data collection process and the tools and techniques employed for analysis. Our findings are then presented, beginning with an assessment of the racial and gender composition of authors and influencers within our sample, followed by a comparison with the demographics of the subset of authors that also appeared in the NYT bestseller list. Finally, we offer a discussion of our findings and draw conclusions based on our research.
+
 </p>
 
 
@@ -44,8 +55,7 @@ The first reports of racial biases on TikTok appeared in 2022 when National Publ
 
 “I can see the white creators who have less viewers than me…saying “here’s how I made 10,000 [dollars per month]... and they… will only have their account for a year… But me as a Black creator I’ve been here for three years and I’m not making nowhere near 10K…” (Harris et al., 2023)
 
-In addition to the meaningful discussion on black creators, the discourse on viewer perception provides insights into how social media users define meaning. According to Melany Amarikwa (2023), who builds on Anita Allen (2022) and her concept of the “Black Opticon,” this concept theorizes how black people are surveilled and discriminated against on social media through what Allen terms “Discriminatory exclusion.” Defined as “excluding people of colour from beneficial opportunities based on race” (Amarikwa, 2023), discriminatory exclusion occurs when individuals or a platform aims to ensure people of colour (POCs) do not receive the same treatment or financial opportunities on the platform as their white and non-POC counterparts, excluding POC from beneficial opportunities based on race. The available literature about the impact of TikTok on diverse creator communities and the experience of the viewers who interact with them through their content indicates the presence of discrimination against BIPOC creators. Although limited and specific in scope, this literature highlights the presence of an issue that must be addressed and requires further investigation. While this literature focused on TikTok in its entirety, the absence of focus on subcommunities within each of these studies supports the case for a more focused analysis. 
-To fill the gap in the literature, the research question behind our study asks: Does the TikTok algorithm display a preference for white authors and white influencers in the #BookTok subcommunity? 
+In addition to the meaningful discussion on black creators, the discourse on viewer perception provides insights into how social media users define meaning. According to Melany Amarikwa (2023), who builds on Anita Allen (2022) and her concept of the “Black Opticon,” this concept theorizes how black people are surveilled and discriminated against on social media through what Allen terms “Discriminatory exclusion.” Defined as “excluding people of colour from beneficial opportunities based on race” (Amarikwa, 2023), discriminatory exclusion occurs when individuals or a platform aims to ensure people of colour (POCs) do not receive the same treatment or financial opportunities on the platform as their white and non-POC counterparts, excluding POC from beneficial opportunities based on race. The available literature about the impact of TikTok on diverse creator communities and the experience of the viewers who interact with them through their content indicates the presence of discrimination against BIPOC creators. Although limited and specific in scope, this literature highlights the presence of an issue that must be addressed and requires further investigation. 
 </p>
 
 <a name="methods"></a>
@@ -76,7 +86,7 @@ The resulting data contained three datasets: 1) our corpus of TikTok posts with 
 Various cross-sections of the data were analyzed, including the race and gender breakdowns of both the influencers recorded in our corpus, the equivalent breakdown of authors referenced by these influencers, and interactions between the race and gender of influencers and the books that they recommended.
 </p>
 
-**<a name="results"></a>
+<a name="results"></a>
 ## Results and Analysis
 <p>
 
@@ -271,14 +281,35 @@ Above we see the gender distribution of newcomers that are mentioned on booktok.
 <a name="discussions"></a>
 ## Discussion
 <p>
-write here 
+Our findings indicate that the BookTok subcommunity in the U.S., predominantly comprises White, female creators and authors. A thorough examination of influencer demographics in our sample reveals that 80.1% are women and 71.3% are white. Interestingly, non-white influencers tend to boast, on average, more followers, likes, and videos, as confirmed by boxplot interpretation.  We found no significant correlation between the race of influencers and of the authors they recommend.
+
+A nearly identical gender distribution is observed among the authors mentioned in our sample TikToks, with 80.2% being women. However, the racial distribution appears more skewed, with 82.2% of authors being white. Black authors are notably underrepresented among both genders, comprising only 2.5% of female authors and 2.9% of male authors. Notably, the top 10 most recurring authors in our sample were exclusively non-black women, aligning with our expectation of significant racial disparities within the subcommunity.
+
+Furthermore, the subset of authors that appeared in both our sample data and the 
+NYT bestseller list reveals a similar racial distribution, with white authors comprising 77.8%. These findings seem to validate our thesis that the TikTok algorithm favours white authors, thereby boosting their book sales more than those of non-white authors. However, the possibility of a broader imbalance in the racial distribution of successful authors in the publishing industry remains plausible, warranting exploration in future studies.
+
+Unexpectedly, when comparing the gender distribution of authors in our sample with those also appearing in the NYT bestseller list, we discovered a notable difference. While our sample skewed heavily towards female authors (about 4⁄5), the NYT subset demonstrated a much more balanced gender representation, with slightly over half being female. This suggests the underrepresentation of popular female BookTok authors in the NYT bestseller list (or an underrepresentation of successful male authors on BookTok), opening avenues for further investigation into potential gender bias in the TikTok algorithm.
+
+However, our research is subject to certain limitations that may have potentially impacted our results to some degree. As outlined in the methodology section, one set of limitations arises from constraints related to the inability to automate the coding of authors mentioned in the TikToks within our sample. This constraint led to a relatively small sample size due to resource limitations, comprising less than 400 TikToks collected in a single session from one location and at one moment in time using a single account. Additionally, manual coding may have introduced errors stemming from human oversight or potential biases of the coders, particularly when inferring the race or gender of authors through visual analysis without additional online information. Moreover, the necessity of uploading a selfie (depicting a white male) to create the new account raises the possibility that this action may have inadvertently influenced the algorithm.
+
+To bolster the robustness of our conclusions and address or mitigate these limitations, it would be valuable to replicate the study with a larger and potentially more diverse sample. This could involve collecting data from various locations and times, as well as using accounts with different characteristics and preferences. Furthermore, automating the coding process could significantly enhance the validity of the study.
+
+Additionally, concerns regarding the comparability between BookTok and the NYT bestsellers list warrant attention. Our sample notably features a high frequency of romance or smut novels, which differs from the composition of the NYT bestsellers list, prompting questions about the potential impact of genre differences on our conclusions. Moreover, while we observed a clear correlation between popular authors on TikTok and those on the NYT bestsellers list, inferring causality is challenging. For instance, it is conceivable that some authors achieved fame outside of TikTok before appearing on the NYT list and subsequently gaining traction on BookTok. These considerations present avenues for further research, including comparisons between BookTok-famous authors and other success metrics such as Amazon book sales rankings.
+
 </p>
 
 
 <a name="conclusions"></a>
 ## Conclusion
 <p>
-Write here
+Our research was prompted by McCall's (2022) allegations regarding a racial bias in the TikTok algorithm, suggesting that it favoured white influencers and authors within the BookTok subcommunity, thereby boosting their book sales at the expense of non-white counterparts, particularly black individuals. Although broader claims of racial disparities within the platform were found in the literature, we found no concrete evidence supporting this specific assertion.
+  
+To investigate further, we created a new account to gather TikTok samples using the #BookTok hashtag. We then manually categorised the race and gender of influencers and the first three authors they mentioned. Additionally, we used inclusion in the NYT Bestsellers list as an indicator of fame.
+
+Our findings generally align with the initial claim, revealing a predominantly female and white BookTok subcommunity, resulting in white authors more frequently achieving fame. While we can reasonably conclude a correlation between racial disparities in the BookTok subcommunity and the NYT bestsellers list, establishing a clear causal relationship remains challenging.
+
+In summary, our analysis serves as an intriguing case study despite inevitable limitations due to resource constraints. It lays the groundwork for further research aimed at definitively determining the presence of racial bias in the TikTok algorithm, particularly within the BookTok subcommunity, and its potential impact on the careers of involved authors.
+
 </p>
 
 <a name="bibliography"></a>
