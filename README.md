@@ -14,9 +14,9 @@
 
 [5. Discussion](#discussions)
 
-[Conclusion](#conclusions)
+[6. Conclusion](#conclusions)
 
-[References](#bibliography)
+[7. References](#bibliography)
 
 
 
