@@ -234,6 +234,36 @@ Results of the chi-square statistic show that there is some level of discrepancy
 Nevertheless, the fact that the p-value is greater than normal (0.225 > 0.05) cannot make us reject the null hypothesis of no relationship between the variables. 
 Hence, no substantial association between the influencer's race and the authors' they recommend race can be made. 
 
+
+In order to see further study the impact of booktok beyond the app itself, we want to compare the authors mentioned on booktok to those that are mentioned on the New York Times Best Sellers list.
+
+We first use the Books API and make a function to get a list of the authors mentioned on the NYT best sellers list.
+
+![image](https://github.com/bensaldich/booktok_decoding_biases_final/assets/150074790/6364351b-2272-417d-90e3-0c15589d5682)
+
+
+Here we encountered a problem with the error message "429: Too many requests. You reached your per minute or per day rate limit". As displayed above, the rate limit of the API impacts the amount of data we were able to scrape from the best seller list in one request. We tried to add a delay between requests to avoid hitting the rate limit, but we still get some errors. As a result, we saved our results as a CSV file to store complete results and use those for our further exploration. 
+
+
+Now, we want to get a list of the authors that were displayed on the best seller list for the first time since the beginning of booktok. We defined a function to print the names of the authors that appeared for the first time on the list between 2020 and 2023. Next, we we want to see how many of the newcomers have also been recommended on booktok.
+![image](https://github.com/bensaldich/booktok_decoding_biases_final/assets/150074790/2478bb7c-8246-403f-bab3-fa8db457f011)
+
+
+![image](https://github.com/bensaldich/booktok_decoding_biases_final/assets/150074790/80be8bdb-e027-4037-b5eb-3af3ce6df255)
+
+
+Now, we are interested in seeing the racial distribution of authors on the NYT best seller list that have also been mentioned on booktok. 
+![image](https://github.com/bensaldich/booktok_decoding_biases_final/assets/150074790/a8f36ba5-be5c-45fe-9beb-61c4ca3fc242)
+
+
+As seen above, the overwhelming majority of the newcomers that appear on booktok is white. This is consistent with the overall racial distribution of authors mentioned on booktok that we have seen before.
+
+We then define a similar function to get a visual representation of the gender distribution. 
+![image](https://github.com/bensaldich/booktok_decoding_biases_final/assets/150074790/aebb9645-b6f4-45aa-a797-22187c937e2b)
+
+
+Above we see the gender distribution of newcomers that are mentioned on booktok. Here, the male representation is higher than what we have seen on booktok. A possible explanation can be that the type of books these authors write have a broader audience and thus the male authors on booktok have proportionally greater outreach compared to female authors mentioned on booktok.
+
 </p>
 
 
