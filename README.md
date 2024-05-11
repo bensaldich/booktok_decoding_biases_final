@@ -92,40 +92,39 @@ Various cross-sections of the data were analyzed, including the race and gender 
 <a name="results"></a>
 ## Results and Analysis
 <p>
+Our investigation into the TikTok community of #BookTok begins with an overview of what this community looks like and who its members are, starting from a descriptive analysis of our two datasets, the main one (booktok.csv) and the one focusing on the authors (booktok_authors.csv). 
 
-<img width="762" alt="1" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/47e509c5-ef36-4517-a40f-03f838d70415">
+Containing 381 scraped tiktoks, booktok.csv unfolds across 42 columns, some set up with Zeeschuimer (like "id" and "timestamp") and some by us (like "Is recommendation positive?" and "Is influencer white?). On the other hand, booktok_authors.csv presents the 353 that were mentioned/reviewed in the 381 tiktoks we analysed. The dataset contains information regarding race and gender of each author. 
 
-
-Colleen Hoover and Ana Huang seem to be the most frequently mentioned authors in the booktok community with 36 and 28 mentions respectively as the first three authors mentioned in a tiktok.
+Since #BookTok is a self-proclaimed digital book club, we were interested in seeing how many of the tiktoks containing the #booktok were actually book reviews. 
 
 <img width="377" alt="2" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/02e0f2b6-1b35-41f0-b33e-f623b7534783">
 
+As the graph above shows, indeed the majority of booktoks are reviews (262), but there still is a significant component that is not (111). 
 
-We can see from the graph that the majority of booktok-related tiktoks are indeed reviews, even though a considerable amount (around a quarter of the total) are not reviews.
+Out of these reviews, almost the totality is positive:
 
 <img width="414" alt="3" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/0a5ac3d7-5a53-4d79-a4dd-d325da79f908">
 
 
 Almost 9 out of 10 reviews are positive in respect to the authors they showcase. Around 7% of the reviews fall under the "Yes and no" category, which indicates tiktoks that often displayed "most recently read books" kind of videos, including liked and disliked books.
 
-What is the distribution over time of our tiktok sample?
+
+We deemed interesting to locate in time the distribution of tiktoks to see if any interesting trend would emerge.
 
 
 <img width="882" alt="4" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/b904f5d5-0077-4c36-9596-512cd3d95b3f">
 
 
-From the collected sample, it seems like the number of booktok-related tiktoks has been increasing considerably since mid 2022 and has received a hit in the most recent months of 2024. Nevertheless, it is hard to generalise this finding to a broder trend regarding booktok in general.
+From the collected sample, it seems like the number of booktok-related tiktoks has been increasing considerably since mid 2022 and has received a hit in the most recent months of 2024. This could be due to an increase in popularity of #BookTok or even of TikTok at large. Nevertheless, it is hard to generalise any finding due to the very limited scope of our data.
 
-What are the recurrent words that appear below these tiktoks? We can have a look at the frequency distribution of words in the captions of the booktok commmunity.
-
+Looking at the words frequency distribution of booktoks captions: 
 
 <img width="708" alt="5" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/f6a9ba1e-6663-45a4-a3a5-709780048d55">
 
-
 It seems like versions of the word "booktok" are the most frequent components of tiktoks captions. The captions seem to be mainly made up of disaggregated hashtags, rather than coherent text.
 
-What about the languages of these tiktoks?
-
+As for the languages that the booktoks analysed were in:
 
 <img width="757" alt="6" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/4ce1c8b0-504a-468d-a64d-269747e52d6a">
 
@@ -133,97 +132,90 @@ What about the languages of these tiktoks?
 It is evident that the vast majority of booktoks analysed are in English.
 
 
-Let's dive into the gender and race dimension of booktok!
+After the analysis of a dozen of the tiktoks, it was already clear that the authors mentioned in the #BookTok community were rather repetitive. In fact some of the authors got extensively more coverage than others. This is in line with the "virality" concept of social media. 
+
+<img width="762" alt="1" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/47e509c5-ef36-4517-a40f-03f838d70415">
 
 
-<img width="480" alt="7" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/c0434dbc-3ca7-4fd1-b4c9-048e88f46fb5">
+Specifically, Colleen Hoover and Ana Huang seem to be the most frequently mentioned authors in the booktok community with 36 and 28 mentions respectively as the first three authors mentioned in a tiktok.
 
+
+Now we can dive into the gender and race dimension of booktok!
 
 
 <img width="362" alt="8" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/32c76d48-e354-4b39-9688-04a72e8961ac">
 
 
-Heavily female-dominated community!
+<img width="362" alt="8" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/4d4d2de8-6b4f-4d85-b81a-7c3892aebdd1">
 
-
-<img width="362" alt="9" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/4d4d2de8-6b4f-4d85-b81a-7c3892aebdd1">
-
-
-From the graphs above it is clear how much BookTok is polarised in terms of gender representation both for influencers and authors. Female influencers take up an overwhelming 80.1% of the entirety of tiktoks taken in consideration. A similar percentage is reflected in the authors' category where "Non-male" authors amount at 80.2%. It is arguably more intersting to look at the male representation is both groups. Whilst for influencers they only reach 8.7%, male authors arrive at almost 20% of authors recommended on the platform.
+The two pie charts above highlight how much the #BookTok community seems to be female-dominated both for the influencers and authors' sides. Female influencers take up an overwhelming 80.1% of the entirety of tiktoks taken in consideration. A similar percentage is reflected in the authors' category where "Non-male" authors amount at 80.2%. It is arguably more intersting to look at the male representation is both groups. Whilst for influencers they only reach 8.7%, male authors arrive at almost 20% of authors recommended on the platform.
 
 
 We can perform a similar analysis to investigate racial bias on BookTok, the focus of our research.
 
 
-<img width="376" alt="10" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/e9f792e1-f7c3-4501-b3f6-1c152b6a7d91">
+<img width="362" alt="8" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/e9f792e1-f7c3-4501-b3f6-1c152b6a7d91">
 
 
-The "Can't Tell" section might be due to either the impossibility to differentiate an influencer's race or to the impossibility to see the influencer (e.g. videos without images of the influencer).
+<img width="362" alt="8" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/1a9e8abe-7710-4491-b40c-22277a2ae4bd">
+
+(The "Can't Tell" section might be due to either the impossibility to differentiate an influencer's race or to the impossibility to see the influencer (e.g. videos without images of the influencer)). 
+
+The "white component" seems higher for authors than influencers (82.2% vs 71.3%). Nevertheless, the "non-white component" is also higher for authors than influencers (16.4% vs 11.1%). This is due to a much smaller share of "Can't Tell" values for authors than influencers.
 
 
-<img width="390" alt="11" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/1a9e8abe-7710-4491-b40c-22277a2ae4bd">
+We can deepen our analysis by looking more closely at the racial composition of male and female influencers:
 
 
-The white component seems higher for authors than influencers (82.2% vs 71.3%). Nevertheless, the non-white component is also higher for authors than influencers (16.4% vs 11.1%). This is due to a much smaller share of "Can't Tell" values for authors than influencers.
+<img width="362" alt="8" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/19873e8b-a8c2-4854-b94f-34df7c8f3b04">
 
 
-Looking more closely at the racial composition of male and female influencers:
+<img width="362" alt="8" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/f88bdced-e942-471f-97a9-30ac1fedafac">
 
 
-<img width="338" alt="12" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/19873e8b-a8c2-4854-b94f-34df7c8f3b04">
+We observe a pretty consistent racial composition across male and female influencers. Value count of "Can't Tell" seems to be the influencing factor in non-white share differences between the two pie charts.
 
 
-<img width="338" alt="13" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/f88bdced-e942-471f-97a9-30ac1fedafac">
+Doing the same for authors: 
+
+<img width="362" alt="8" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/06c671b9-fd80-4f7c-ae86-40371b5fe77d">
 
 
-Pretty consistent racial composition across male and female influencers. Value count of "Can't Tell" influencing non-white share differences.
+<img width="362" alt="8" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/97269ba3-fe71-43f5-adec-3e69402dd898">
 
 
-Looking more closely at the racial composition of male and female authors:
+Again, we notice consistent results for authors as well. 
+Both for authors and influencers, irrespective of the gender, #BookTok appears to be a white-dominated community.
 
 
-<img width="359" alt="14" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/06c671b9-fd80-4f7c-ae86-40371b5fe77d">
+
+We are going to analyse if race plays a role in determining the attention and success that an influencer receives in the BookTok community. We are going to use the mean values of number of followers, likes and number of videos published by influencers categorising them by race.
 
 
-<img width="348" alt="15" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/97269ba3-fe71-43f5-adec-3e69402dd898">
+<img width="426" alt="18" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/e4990e6c-3f28-4f58-b8af-f8a5e7443a02">
 
 
-Again, consistent results for authors as well. Very much white dominated community on both ends.
-
-
-We are going to see if race plays a factor in determining the attention and success that an influencer receives in the BookTok community. We are going to use the mean values of number of followers, likes and number of videos published by influencers categorising them by race.
-
-
-<img width="469" alt="16" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/e4990e6c-3f28-4f58-b8af-f8a5e7443a02">
-
-
-<img width="442" alt="17" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/fa686c79-2eaa-404f-99a3-7a5ca760c42a">
+<img width="426" alt="18" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/fa686c79-2eaa-404f-99a3-7a5ca760c42a">
 
 
 <img width="426" alt="18" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/f49cdce5-42bd-400b-ae23-87889a44805d">
 
+The results obtained from the analysis of profile statistics by race seem to indicate that non-white authors tend to have on average significantly more followers and more likes. In terms of videos produced, the difference between white and non-white authors is instead not particularly relevant.
 
-The results obtained from the analysis of profile statistics by race indicate that non-white authors tend to have on average significantly more followers and more likes. In terms of videos produced, the difference between white and non-white authors is instead not particularly relevant.
-
-We are intersted in understanding if the results we got are driven by huge outliers or if they represent a general trend. We do it by utilizing boxplots.
+We are intersted in understanding if the results we got are driven by huge outliers or if they represent a general trend. We do it by utilizing boxplots for each of the three parameters, comparing results of white and non-white influencers.
 
 
 <img width="465" alt="19" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/10195809-b1f6-4331-8e80-4cfc0da8ab25">
 
 
-<img width="468" alt="20" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/51f49a79-4128-4033-a3ec-4c4d6194c487">
+<img width="468" alt="19" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/51f49a79-4128-4033-a3ec-4c4d6194c487">
 
 
-Lets do the same for likes and videos!
+
+<img width="468" alt="19" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/1bf289b4-6080-426c-a428-4b0d167d685e">
 
 
-<img width="468" alt="21" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/1bf289b4-6080-426c-a428-4b0d167d685e">
-
-
-<img width="468" alt="22" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/50c70c4c-8647-4196-832c-51591179e907">
-
-
-Now we want to investigate if there is any correlation between the race of an influencer and the race of the authors they recommend. To do so, we will need to melt and merge the new_booktok and booktok_authors datasets for columns of interest, namely the ones indicating both influencer and author race.
+<img width="468" alt="19" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/50c70c4c-8647-4196-832c-51591179e907">
 
 
 
@@ -233,7 +225,9 @@ Now we want to investigate if there is any correlation between the race of an in
 
 ![24](https://github.com/bensaldich/booktok_decoding_biases_final/assets/166377571/47063252-dbc5-49a4-a0ca-9d8b16ce08d2)
 
+Boxplots of the three categories seem to confirm the trend observed in the mean bar charts. For followers, likes, and videos, non-white influencers have more significant interquartile range than their white counterparts. It is also noteworthy to mention that actually outliers seem to be more common among white influencers across all three categories.   
 
+Now we want to investigate if there is any correlation between the race of an influencer and the race of the authors they recommend. To do so, we will need to melt and merge the new_booktok and booktok_authors datasets for columns of interest, namely the ones indicating both influencer and author race.
 
 We can now visualise if there is any trend relating the influencers' race to the authors' race. We are going to work on chi-square statistics and the p-value. We are going to assume that the variables (influencer race and author race) are independent and we are going to test for any discrepancies between their actual frequency distribution and their expected one.
 
@@ -245,8 +239,7 @@ We can now visualise if there is any trend relating the influencers' race to the
 
 Results of the chi-square statistic show that there is some level of discrepancy between the variables' frequencies (assuming they are independent). 
 Nevertheless, the fact that the p-value is greater than normal (0.225 > 0.05) cannot make us reject the null hypothesis of no relationship between the variables. 
-Hence, no substantial association between the influencer's race and the authors' they recommend race can be made. 
-
+Hence, no substantial association between the influencer's race and the authors' they recommend race can be made.
 
 In order to see further study the impact of booktok beyond the app itself, we want to compare the authors mentioned on booktok to those that are mentioned on the New York Times Best Sellers list.
 
