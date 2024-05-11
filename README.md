@@ -63,9 +63,22 @@ In addition to the meaningful discussion on black creators, the discourse on vie
 <p>
 Though #BookTok is used across many languages and countries, our group’s interest in potential racial biases present in TikTok’s search results necessitated an in depth focus on one geographic location. Given the existing literature on racial disparities in the United States, and the emerging reports on BookTok’s racial bias in the American context, we aimed to collect primarily U.S. TikTok posts. To do so, a VPN was employed throughout the entire process of account creation and data collection, with an arbitrary location within the United States set to Phoenix, Arizona. Using the active VPN, a new TikTok account was created with a new email to mitigate the potential for data traceability. A selfie is required to authenticate new TikTok accounts. This selfie was taken by a member of our team (a white man). Aside from a few preliminary searches on the account, no other actions were performed on the account until our data collection commenced. Here are some screenshots of examples from our dataset:
 
-![books1](https://github.com/bensaldich/booktok_decoding_biases_final/assets/71343656/83c0dc34-df56-4e73-a537-1c7307b5e4d4)
-![boks](https://github.com/bensaldich/booktok_decoding_biases_final/assets/71343656/10ae525f-ffc2-42bc-a052-e7110da9079a)
+<p>
+<img align="left" width="100" height="177.79" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/71343656/83c0dc34-df56-4e73-a537-1c7307b5e4d4">
+<img align="left" width="100" height="177.79" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/71343656/10ae525f-ffc2-42bc-a052-e7110da9079a">
+<img align="left" width="100" height="177.79" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/71343656/7c7281b4-5e51-463a-9ca7-814265443c53">
+<img align="left" width="100" height="177.79" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/71343656/0c63d4ff-6c2e-4c89-bdc4-c07ab4a3ede5">
+<img align="left" width="100" height="177.79" src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/71343656/401285dc-0132-4581-b08a-860c31c077e9">
+<img align="left" width="100" height="177.79" 
+src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/71343656/2e9c4974-fdf1-4e58-bcc2-2dff889e78ac">
+<img align="left" width="100" height="177.79" 
+src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/71343656/24239a74-46a5-4023-af19-87935c5a858a">
+<img align="left" width="100" height="177.79"
+src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/71343656/29dbe21e-fa5d-4bcb-aa01-9e52bda22476">
+  </p>
 
+<p>
+  
 Data collection was performed using the traffic monitoring Firefox extension, Zeeschuimer, paired with the auto-scrolling extension FoxScroller. Developed by the Digital Methods Initiative at the University of Amsterdam, Zeeschuimer allows users to collect data while they browse various social media websites, including Twitter, Instagram, LinkedIn, and TikTok. Using Firefox Nightly in conjunction with the Arizona-based VPN, the new TikTok account was accessed. At this step, the Zeeschuimer extension was activated, and a search query was performed for #BookTok. Data collection was performed until no more results were offered. In total, 381 posts were collected, a small but meaningful sample when considering the team’s manual coding framework. 
 
 Using 4CAT, Zeeschuimer’s companion data processing tool, data was converted from a .NDJSON format to a .CSV format. These data contained information on the post time, author, text body, as well as information on the account’s popularity and post-level engagement and viewership data. Surprisingly, these posts ranged from August 2021 to the time of data collection in April 2024, indicating that post-recency is but one of many factors present in TikTok’s search results algorithm. After collecting the data, a manual coding process was enacted, with coding performed across 7 categories (category-specific options provided in parentheticals):
