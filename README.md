@@ -78,6 +78,7 @@ src="https://github.com/bensaldich/booktok_decoding_biases_final/assets/71343656
   </p>
 
 <p>
+
   
 Data collection was performed using the traffic monitoring Firefox extension, Zeeschuimer, paired with the auto-scrolling extension FoxScroller. Developed by the Digital Methods Initiative at the University of Amsterdam, Zeeschuimer allows users to collect data while they browse various social media websites, including Twitter, Instagram, LinkedIn, and TikTok. Using Firefox Nightly in conjunction with the Arizona-based VPN, the new TikTok account was accessed. At this step, the Zeeschuimer extension was activated, and a search query was performed for #BookTok. Data collection was performed until no more results were offered. In total, 381 posts were collected, a small but meaningful sample when considering the team’s manual coding framework. 
 
@@ -265,6 +266,7 @@ Here we encountered a problem with the error message "429: Too many requests. Yo
 
 
 Now, we want to get a list of the authors that were displayed on the best seller list for the first time since the beginning of booktok. We defined a function to print the names of the authors that appeared for the first time on the list between 2020 and 2023. Next, we we want to see how many of the newcomers have also been recommended on booktok.
+
 ![image](https://github.com/bensaldich/booktok_decoding_biases_final/assets/150074790/2478bb7c-8246-403f-bab3-fa8db457f011)
 
 
@@ -272,12 +274,14 @@ Now, we want to get a list of the authors that were displayed on the best seller
 
 
 Now, we are interested in seeing the racial distribution of authors on the NYT best seller list that have also been mentioned on booktok. 
+
 ![image](https://github.com/bensaldich/booktok_decoding_biases_final/assets/150074790/a8f36ba5-be5c-45fe-9beb-61c4ca3fc242)
 
 
 As seen above, the overwhelming majority of the newcomers that appear on booktok is white. This is consistent with the overall racial distribution of authors mentioned on booktok that we have seen before.
 
 We then plot a similar figure to get a visual representation of the gender distribution. 
+
 ![image](https://github.com/bensaldich/booktok_decoding_biases_final/assets/150074790/aebb9645-b6f4-45aa-a797-22187c937e2b)
 
 
